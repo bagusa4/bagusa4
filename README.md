@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Hello World 🌱
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65d4bea7cba7f7159feed3ff?variant=dark)](https://roadmap.sh)
 
 <!--
 **bagusa4/bagusa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
